@@ -1,0 +1,12 @@
+plugins:
+- Emojisense: https://github.com/mattbierner/vscode-emojisense
+- Apollo Graphql: apollo Graphql
+- Atom One Light Theme: akamud.vscode-theme-onelight
+- Unicode Latex: oijaz.unicode-latex
+- TODO Highlight: wayou.vscode-todo-highlight
+- Simple GHC (Haskell) Integration: dramforever.vscode-ghc-simple
+- Prettier - Code formatter: esbenp.prettier-vscode
+- ormolu: sjurmillidahl.ormolu-vscode
+- Markdown Preview Enhanced: shd101wyy.markdown-preview-enhanced
+- hlint: lunaryorn.hlint
+- Haskell Syntax Highlighting: justusadam.language-haskell
