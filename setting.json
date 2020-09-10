@@ -1,0 +1,93 @@
+{
+    "git.autofetch": true,
+    "window.zoomLevel": 2,
+    "editor.fontFamily": "'Fira Code'",
+    "editor.fontLigatures": true,
+    "diffEditor.ignoreTrimWhitespace": true,
+    "workbench.colorTheme": "Atom One Light",
+    "latex-workshop.view.pdf.viewer": "tab",
+    "editor.largeFileOptimizations": false,
+    "editor.columnSelection": false,
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "cSpell.userWords": [
+        "Aeson",
+        "Eventless",
+        "Exts",
+        "GADTs",
+        "Hashable",
+        "Kinded",
+        "OVERLAPPABLE",
+        "Pulido",
+        "Roadmap",
+        "Subprotocols",
+        "UUID",
+        "Unlift",
+        "Unpackedness",
+        "attoparsec",
+        "chakra",
+        "charlescrain",
+        "concat",
+        "dandoh",
+        "elems",
+        "favicon",
+        "fmap",
+        "foldl",
+        "foldr",
+        "fullname",
+        "gadt",
+        "graphi",
+        "hackage",
+        "hovind",
+        "hpack",
+        "ifrom",
+        "inputname",
+        "iores",
+        "jsdelivr",
+        "krisajenkins",
+        "mconcat",
+        "mempty",
+        "morpheusgraphql",
+        "msvbg",
+        "nalchevanidze",
+        "newtype",
+        "postgresql",
+        "quasiquoter",
+        "scotty",
+        "sebashack",
+        "semigroup",
+        "shapeshifting",
+        "stylesheet",
+        "swapi",
+        "uncapitalize",
+        "uncurry",
+        "unexhausted",
+        "vmchale",
+        "websockets",
+        "μορφή"
+    ],
+    "emojisense.languages": {
+        "yaml":true,
+        "json":true,
+        "javascript":true,
+        "haskell":true,
+        "typescript":true,
+        "markdown": true,
+        "plaintext": {
+            "markupCompletionsEnabled": false,
+            "emojiDecoratorsEnabled": false
+        },
+        "scminput": true,
+        "git-commit": true
+    }
+}
